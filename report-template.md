@@ -19,20 +19,22 @@ The stages of the machine learning process of this analysis: firstly, split the 
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
-
 * Machine Learning Model 1:
-  * Description of Model 1 Accuracy, Precision, and Recall scores.
 
+![Model_original](https://user-images.githubusercontent.com/117326039/233763937-0bdeb49d-cd74-4397-906b-8684a1a35a5a.png)
 
-
+<br>
+<br>
 
 * Machine Learning Model 2:
-  * Description of Model 2 Accuracy, Precision, and Recall scores.
 
+![Model_oversampled](https://user-images.githubusercontent.com/117326039/233763996-99c89de9-2fcf-4e94-a227-0df56c3def1a.png)
+
+ 
 ## Summary
 
 Summarise the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
+
 * Which one seems to perform best? How do you know it performs best?
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
 
